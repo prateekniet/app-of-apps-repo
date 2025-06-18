@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/deepaks374/argocd-example-apps  # Replace with your actual GitHub account/repo
+    repoURL: https://github.com/prateekniet/argocd-example-apps  # Replace with your actual GitHub account/repo
     path: sock-shop                                          # Path to the directory in the repo containing your app
     targetRevision: hook-sync-demo                                     # Replace "main" with the appropriate branch/tag instead of "HEAD"
   destination:
